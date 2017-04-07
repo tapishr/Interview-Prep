@@ -1,0 +1,28 @@
+//Space - O(1)
+//Time - O(log n) , where log is to the base 10
+bool isPalindrome(int x) {
+        int numdigits = 1;
+        
+        if (x < 0) return false; //Lexical definition of palindrome
+        
+        // O(d) where d is number of digits = O(log n) where n is the number and log of base 10
+        while (x / (int)pow(10, numdigits) >= 1) {
+            numdigits++;
+        }
+        
+        //Again O(log n)
+        while (numdigits > 1) {
+        
+            //Checking if last digit and first digit match
+            if (x/(int)pow(10, numdigits-1) != x%10) {
+                return false;
+            }
+            else {
+                //Shaving off first and last digit that were checked in this iteration
+                x = x%(int)pow(10, numdigits-1);
+                x = x/10;
+                numdigits -= 2;
+            }
+        }
+      return true;
+}
