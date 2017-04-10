@@ -11,3 +11,6 @@ This project contains solutions of questions answered on various coding sites.
 * [Length of Last Word Leetcode](https://leetcode.com/problems/length-of-last-word/#/description)
 * [Length of Last Word Interviewbit](https://www.interviewbit.com/problems/length-of-last-word/)
 
+#### Day 3
+* [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description)
+* [Remove Element](https://leetcode.com/problems/remove-element/#/description)
