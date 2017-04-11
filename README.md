@@ -14,3 +14,7 @@ This project contains solutions of questions answered on various coding sites.
 #### Day 3
 * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description)
 * [Remove Element](https://leetcode.com/problems/remove-element/#/description)
+
+#### Day 4
+* [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description)
+* [Happy Number](https://leetcode.com/problems/happy-number/#/description)
