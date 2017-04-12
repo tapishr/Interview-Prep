@@ -18,3 +18,7 @@ This project contains solutions of questions answered on various coding sites.
 #### Day 4
 * [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description)
 * [Happy Number](https://leetcode.com/problems/happy-number/#/description)
+
+#### Day 5
+* [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/)
+* [Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)
