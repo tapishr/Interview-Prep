@@ -1,0 +1,16 @@
+//Problem link -> https://leetcode.com/problems/single-number/#/description
+//A number XOR itself = 11111111
+//11111111 XOR any number = that number
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int ans = nums[0];
+        int size = nums.size();
+        if (size > 1) {
+            for (int i = 1; i < size; i++) {
+                ans = ans^nums[i];
+            }
+        }
+        return ans;
+    }
+};
