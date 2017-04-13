@@ -22,3 +22,7 @@ This project contains solutions of questions answered on various coding sites.
 #### Day 5
 * [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/)
 * [Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)
+
+#### Day 6 
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)
+* [Find the Second Largest Number](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign)
