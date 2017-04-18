@@ -6,4 +6,4 @@ def isPalindrome(self, A):
                 return False
         return True
 
-Question at : https://www.interviewbit.com/problems/palindrome-string/
+# Question at : https://www.interviewbit.com/problems/palindrome-string/
