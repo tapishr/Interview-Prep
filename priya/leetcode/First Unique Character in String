@@ -10,4 +10,4 @@ class Solution(object):
         :rtype: int
         """
         
-Question at : https://leetcode.com/problems/first-unique-character-in-a-string/
+# Question at : https://leetcode.com/problems/first-unique-character-in-a-string/
