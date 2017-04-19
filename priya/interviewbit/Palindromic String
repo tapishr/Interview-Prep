@@ -1,9 +1,0 @@
-def isPalindrome(self, A):
-        newStr = ("".join([a if a.isalnum() else "" for a in A])).lower()
-
-        for i in range(len(newStr)/2):
-            if(newStr[i]!=newStr[-1-i]):
-                return False
-        return True
-
-# Question at : https://www.interviewbit.com/problems/palindrome-string/
